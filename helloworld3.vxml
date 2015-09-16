@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<vxml version="2.0" xmlns="http://www.w3.org/2001/vxml" xml:lang="en">
+ <form>
+  <block>
+   <prompt>
+    <audio src="uri:asterisk_audio"/>
+   </prompt>
+  </block>
+ </form>
+</vxml>
